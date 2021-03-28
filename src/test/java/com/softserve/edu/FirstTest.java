@@ -24,7 +24,7 @@ public class FirstTest {
 
 
 
-        Assertions.assertTrue(true);
+        Assertions.assertEquals(System.getenv("THYMELEAF_USER"),"pmp312");
  
    }
 
