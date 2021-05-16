@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2" engine-version="3.12.0.0" clr-version="4.0.30319.42000" start-time="2021-05-16 17:05:43Z" end-time="2021-05-16 17:05:45Z" duration="1.849641">
+  <command-line><![CDATA[nunit3-console  bin/Debug/UnitTestProjectStar.dll]]></command-line>
+  <test-suite type="Assembly" id="1-1003" name="UnitTestProjectStar.dll" fullname="C:\Users\User\source\repos\UnitTestProjectStar\bin\Debug\UnitTestProjectStar.dll" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-05-16T17:05:45.3224739Z" end-time="2021-05-16T17:05:45.5054844Z" duration="0.182248" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.13.2.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.1.7601.65536" platform="Win32NT" cwd="C:\Users\User\source\repos\UnitTestProjectStar" machine-name="EVA" user="User" user-domain="EVA" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\User\source\repos\UnitTestProjectStar" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.7.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="2700" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="1-1004" name="UnitTestProjectStar" fullname="UnitTestProjectStar" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-05-16T17:05:45.3494755Z" end-time="2021-05-16T17:05:45.5054844Z" duration="0.156744" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestFixture" id="1-1000" name="UnitTest1" fullname="UnitTestProjectStar.UnitTest1" classname="UnitTestProjectStar.UnitTest1" runstate="Runnable" testcasecount="2" result="Passed" start-time="2021-05-16T17:05:45.3604761Z" end-time="2021-05-16T17:05:45.5054844Z" duration="0.144646" total="2" passed="2" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <test-case id="1-1001" name="TestMethodAdd" fullname="UnitTestProjectStar.UnitTest1.TestMethodAdd" methodname="TestMethodAdd" classname="UnitTestProjectStar.UnitTest1" runstate="Runnable" seed="513645826" result="Passed" start-time="2021-05-16T17:05:45.3664765Z" end-time="2021-05-16T17:05:45.4984840Z" duration="0.132274" asserts="1" />
+        <test-case id="1-1002" name="TestMethodHello" fullname="UnitTestProjectStar.UnitTest1.TestMethodHello" methodname="TestMethodHello" classname="UnitTestProjectStar.UnitTest1" runstate="Runnable" seed="490591027" result="Passed" start-time="2021-05-16T17:05:45.5024842Z" end-time="2021-05-16T17:05:45.5034843Z" duration="0.001013" asserts="1" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
